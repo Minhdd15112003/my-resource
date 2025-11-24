@@ -1,0 +1,14 @@
+
+#--- linux ---#
+python3 -m venv venv
+venv/bin/pip install -r requirements.txt
+venv/bin/python main.py
+
+#--- windows ---#
+python -m venv venv
+venv/Scripts/pip install -r requirements.txt
+venv/Scripts/python main.py
+
+#--- test api ---#
+http://localhost:8686/api/system/reboot
+

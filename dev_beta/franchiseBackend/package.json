@@ -1,0 +1,19 @@
+{
+  "name": "franchiseBackend",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@hono/swagger-ui": "^0.5.2",
+    "@hono/zod-validator": "^0.7.2",
+    "@prisma/client": "^6.13.0",
+    "hono": "^4.9.0",
+    "mysql2": "^3.14.3",
+    "prisma": "^6.13.0",
+    "socket.io-client": "^4.8.1",
+    "zod": "^4.0.15"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

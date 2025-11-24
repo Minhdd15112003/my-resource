@@ -1,0 +1,337 @@
+[{
+  "_id": {
+    "$oid": "68deb5bb3297b56be572be76"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-02T17:26:19.462Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-02T17:26:19.462Z"
+  },
+  "username": "cacccccc",
+  "password": "cacccccc",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68df288e73561c557e21b3cc"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T01:36:14.953Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T01:36:14.953Z"
+  },
+  "username": "admin123",
+  "password": "admin123",
+  "room_id": "asdfasdfasdfs",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68df28c773561c557e21b3cf"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T01:37:11.658Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T01:37:11.658Z"
+  },
+  "username": "admin1233",
+  "password": "admin123",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68df81cfebfcb55fa0950e2a"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T07:57:03.698Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T07:57:03.698Z"
+  },
+  "username": "addf3",
+  "password": "addddddd",
+  "number_phone": "098888590",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe98be1af40466e4fde35"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:19:39.352Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:19:39.352Z"
+  },
+  "username": "minhtit123",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe990e1af40466e4fde37"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:19:44.509Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:19:44.509Z"
+  },
+  "username": "minhtit1233",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe993e1af40466e4fde38"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:19:47.109Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:19:47.109Z"
+  },
+  "username": "minhtit12333",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe9cee1af40466e4fde3a"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:20:46.478Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:20:46.478Z"
+  },
+  "username": "userA1b2c3",
+  "password": "passXyZ1!",
+  "number_phone": "0912345678",
+  "room_id": "room123abc",
+  "role_id": "roleA1B2C3",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe9d7e1af40466e4fde3b"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:20:55.026Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:20:55.026Z"
+  },
+  "username": "userF8k2m9",
+  "password": "passQwE2@",
+  "number_phone": "0934567890",
+  "room_id": "room456def",
+  "role_id": "roleD4E5F6",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe9dee1af40466e4fde3c"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:21:02.740Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:21:02.740Z"
+  },
+  "username": "userT7y6u5",
+  "password": "passLmN3#",
+  "number_phone": "0976543210",
+  "room_id": "room789ghi",
+  "role_id": "roleG7H8I9",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dfe9eae1af40466e4fde3d"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T15:21:14.856Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T15:21:14.856Z"
+  },
+  "username": "hello",
+  "password": "passAsD4$",
+  "number_phone": "0923456781",
+  "room_id": "room321zyx",
+  "role_id": "roleJ1K2L3",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dff8b798e440e323c3ebce"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T16:24:23.776Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T16:24:23.776Z"
+  },
+  "username": "minhtit",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dff8e3bfe8e6ae15b1e28d"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T16:25:07.942Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T16:25:07.942Z"
+  },
+  "username": "minhtitd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dff92ebc0dc6668e0ca884"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T16:26:22.472Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T16:26:22.472Z"
+  },
+  "username": "minhtidtd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dff961f89c4c5ca1b05fb4"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T16:27:13.972Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T16:27:13.972Z"
+  },
+  "username": "minhtidtdd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68dff9703dd89bb7073dad9a"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T16:27:28.119Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T16:27:28.119Z"
+  },
+  "username": "minhtidtddd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68e007d59c941a80a96248cb"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T17:28:53.599Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T17:28:53.599Z"
+  },
+  "username": "minhtidtdddd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+},
+{
+  "_id": {
+    "$oid": "68e008052988d671b305a064"
+  },
+  "_cls": "User",
+  "created_at": {
+    "$date": "2025-10-03T17:29:41.878Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-03T17:29:41.878Z"
+  },
+  "username": "minhtidtfdddd",
+  "password": "minhtit123",
+  "number_phone": "0988885990",
+  "room_id": "asdfasdfasdfs",
+  "role_id": "cacccccc",
+  "status_img": false,
+  "status_update": false
+}]

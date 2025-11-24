@@ -1,0 +1,11 @@
+# --- fix windows ----
+# pip install opencv-python==4.10.0.84
+# pip install tensorflow==2.12.1
+# pip install tensorflow-cpu==2.10.0
+# pip install numpy==1.26.4
+
+# --- fix ubuntu ----
+# pip uninstall opencv-python
+# pip install opencv-python-headless==4.10.0.84
+# pip install tensorflow==2.12.0
+# pip install numpy==1.26.4

@@ -1,0 +1,10 @@
+requests
+urllib3
+flask
+flask-restx
+flask-sock
+Flask-SQLAlchemy
+Flask-APScheduler
+flask-cors
+PyJWT
+pyotp

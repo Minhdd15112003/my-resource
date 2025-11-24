@@ -1,3 +1,9 @@
+.vscode
+.idea
+__MACOSX
+__pycache__
+faceImages
+.deepface
 # Logs
 logs
 *.log

@@ -1,0 +1,5 @@
+npm init -y
+npm i express dotenv app-root-path amqplib connect-redis crypto-js express-session express-rate-limit express-validator ioredis moment node-cron sharp tsid-ts cors multer helmet
+npx express-generator -e
+npm i --save sequelize mysql2
+npm i --save-dev sequelize-cli nodemon
